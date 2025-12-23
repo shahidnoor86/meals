@@ -6,6 +6,8 @@ A practie Flutter project with hard coded data.
 <img width="300" height="841" alt="image" src="https://github.com/user-attachments/assets/7cd769b9-8512-4e36-b58d-518d5ad6b1e6" />
 <img width="300" height="840" alt="image" src="https://github.com/user-attachments/assets/ebd11187-d71a-4f65-a79b-cc202a14b642" />
 <img width="300" height="839" alt="image" src="https://github.com/user-attachments/assets/203fc62c-8cea-485d-8db5-8bfffaa1c4cc" />
+<img width="300" height="842" alt="image" src="https://github.com/user-attachments/assets/53800560-e80f-4a03-b6ec-a57e864af935" />
+
 
 
 ### 8. Building Multi-Screen Apps & Navigating Between Screens [MEALS APP]
